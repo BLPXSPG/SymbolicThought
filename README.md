@@ -6,12 +6,15 @@ This repository accompanies the ACL 2026 Demo paper:
 
 **SymbolicThought: Integrating Language Models and Symbolic Reasoning for Consistent and Interpretable Human Relationship Understanding**
 
-A screencast\footnote{\url{https://www.youtube.com/watch?v=nb10-bDCkRU}} and demo\footnote{\url{http://104.168.96.23:3000/}} are available online.
+Paper links: [arXiv](https://arxiv.org/abs/2507.04189) | ACL Anthology (forthcoming).
+
+A [screencast](https://www.youtube.com/watch?v=nb10-bDCkRU) and [online demo](http://104.168.96.23:3000/) are available.
 
 Citation format:
 
 ```bibtex
 @inproceedings{symbolicthought-2026-demo,
+  author = {Runcong Zhao and Qinglin Zhu and Hainiu Xu and Bin Liang and Lin Gui and Yulan He},
   title = {SymbolicThought: Integrating Language Models and Symbolic Reasoning for Consistent and Interpretable Human Relationship Understanding},
   booktitle = {Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics: System Demonstrations},
   year = {2026}
