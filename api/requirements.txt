@@ -1,0 +1,14 @@
+flask
+flask-session
+openai
+pyyaml
+python-dotenv
+colorama
+numpy
+tiktoken
+faiss-cpu
+requests
+tqdm
+scipy
+scikit-learn
+pandas
